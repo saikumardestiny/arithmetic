@@ -7,6 +7,7 @@ public class Arithmetic{
 			System.out.println("from sai nike");
 			System.out.println("without access to sai nike");
 			System.out.println("this line is also in develop1 branch")
+			System.out.println("this line is also in develop2 branch")
 			a=90;
 			b=8;
 			System.out.println(a+b);
