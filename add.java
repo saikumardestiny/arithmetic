@@ -5,7 +5,7 @@ public class Arithmetic{
 		public void Addition(int a,int b){
 			System.out.println("this line is written in develop branch");
 			System.out.println("from sai nike");
-			System.out.println("without access sai nike");
+			System.out.println("without access to sai nike");
 			a=90;
 			b=8;
 			System.out.println(a+b);
